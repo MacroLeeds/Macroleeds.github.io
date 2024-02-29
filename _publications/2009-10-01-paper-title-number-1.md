@@ -2,7 +2,7 @@
 title: "Not Yet"
 collection: publications
 permalink: # /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is still in process.'
 date: 2024-01-01
 venue: 'Journal of Final Fantasy IIV'
 paperurl: # 'http://academicpages.github.io/files/paper1.pdf'
