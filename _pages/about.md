@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student from [School of Finance](https://sf.ruc.edu.cn/), [Renmin of University of China](https://www.ruc.edu.cn/). My research interest includes macroeconomics, macrofinance and monetary policy.
+I'm a PhD student from [School of Finance](https://sf.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). My research interest includes macroeconomics, macrofinance and monetary policy.
 
 
 [Email](cykablz066@ruc.edu.cn) / [Github](https://github.com/Macroleeds)
