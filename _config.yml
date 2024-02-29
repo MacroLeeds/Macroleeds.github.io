@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://macroleeds.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Watermelon is tasty"
   location         : "BeiJing"
   employer         : "Renmin University of China"
-  uri              : https://macroleeds.github.io
+  url              :  https://macroleeds.github.io
   email            : "cykablz066@ruc.edu.cn" 
 
   # Academic websites
